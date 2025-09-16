@@ -6,7 +6,7 @@ spec:
   project: devops
 
   source:
-    repoURL: https://github.com/jhlee7854/user-api
+    repoURL: https://github.com/jhlee7854/user-api-deploy
     targetRevision: main
     path: kustomize/overlays/infra
 
