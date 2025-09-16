@@ -4,4 +4,5 @@ kind: Kustomization
 namespace: devops
 
 resources:
-  - application/nginx.yaml
+  # - application/nginx.yaml
+  - application/user-api.yaml
