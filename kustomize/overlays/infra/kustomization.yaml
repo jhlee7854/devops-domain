@@ -6,3 +6,4 @@ namespace: devops
 resources:
   # - application/nginx.yaml
   - application/user-api.yaml
+  - application/greeting-api.yaml
